@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2546a04c654c7e4b7e2b6c57",
+  "owner": "efhhynrkm",
+  "repo": "page-f3c0b8fc3c8b63e52b5c2e7a",
+  "title": "ShadowRhythm",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f3c0b8fc3c8b63e52b5c2e7a",
+      "a": "ShadowRhythm",
+      "b": "机场官网线路发布页",
+      "entity": "ShadowRhythm",
+      "brand": "ShadowRhythm",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "73bf33e1f595ae95eab48fd5cddb5c923b14fab00e04e1600e10e01d3f52e6e1",
+      "content": {
+        "primary_entity": "ShadowRhythm",
+        "keyword1": "ShadowRhythm",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，围绕稳定线路与订阅配置展开，适合需要灵活选择套餐的跨境使用者。",
+          "AI_HERO_SUBTITLE": "轻松选择适合的加速方案",
+          "AI_HERO_INTRO": "ShadowRhythm 提供多条线路与不同档次的订阅套餐，覆盖日常浏览、流媒体和游戏加速场景，可按设备数量与流量需求灵活选择。",
+          "AI_VISUAL_TITLE": "ShadowRhythm 加速服务",
+          "AI_HIGHLIGHT_1": "三档套餐按需挑选",
+          "AI_HIGHLIGHT_2": "多设备同时在线支持",
+          "AI_HIGHLIGHT_3": "订阅周期灵活可选",
+          "AI_FEATURES_INTRO": "从设备数量、流量和线路质量三个角度匹配套餐。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版5台，团队版20台。",
+          "AI_FEATURE_TITLE_2": "流量额度",
+          "AI_FEATURE_TEXT_2": "每月100GB到1000GB，按用量选择合适档位。",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_FEATURE_TEXT_3": "支持月付与年付，年付价格更优惠。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版每月15元含100GB流量，旗舰版每月35元含300GB并优化IPLC专线，团队版每月85元含1000GB高带宽节点。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，再导入订阅链接。",
+          "AI_GUIDE_TITLE": "配置三步",
+          "AI_GUIDE_INTRO": "按步骤完成订阅并开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求选定套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本符合使用条件。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按所选客户端文档导入订阅链接即可使用。",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "ShadowRhythm 支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备，旗舰版5台，团队版20台同时在线。",
+          "AI_FAQ_QUESTION_2": "如何导入订阅链接？",
+          "AI_FAQ_ANSWER_2": "在所选客户端的订阅设置中粘贴链接，按客户端文档提示保存并更新节点。",
+          "AI_FAQ_QUESTION_3": "套餐可以更换吗？",
+          "AI_FAQ_ANSWER_3": "可以根据使用情况升级或降级，具体规则以订阅管理界面为准。",
+          "AI_FAQ_QUESTION_4": "年付是否更划算？",
+          "AI_FAQ_ANSWER_4": "基础版年付150元、旗舰版350元、团队版850元，相比月付节省两个月费用。",
+          "AI_FAQ_QUESTION_5": "流量用完后怎么办？",
+          "AI_FAQ_ANSWER_5": "当月流量用尽后可以升级套餐或等待下个计费周期重置。",
+          "AI_CLOSING_TITLE": "挑选合适套餐",
+          "AI_CLOSING_TEXT": "按设备数量与流量需求选定套餐，立即开始配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "6g3k7e.cn",
+    "host": "6g3k7e.cn"
+  },
+  "file_hashes": {
+    "index.html": "2bd43a0b51feed187313721aa016f6a6f35ecdcdaea52b7ef734c1600cfed3e4",
+    "sitemap.xml": "d4a39d4aa5c72d74ad25dbc6195522260e825cc18e9f517190832de95c83e93a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1360f43635ac0eb6e44c228a1d5988a054e6e85c743cadc7da528d7f1d76a028",
+    "robots.txt": "0d88435717848746e8e3279d626ef3d35bb16ea6e92354cd00f6fd29f547d379",
+    "150fcb901317119209b7acbcabd844d7.txt": "d596ca6d54fde1d3c5d307675b9adb52b45be347288765036c613b100ad14bf6"
+  },
+  "revision": "43effafb82ec2788c059d7b83f61ebbd4b47ddee5fb02628efa16fe91012e279"
+}
